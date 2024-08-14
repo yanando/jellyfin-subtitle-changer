@@ -1,2 +1,2 @@
 # Jellyfin Subtitle Changer
-Bulk subtitle and audio changera a la pastatool
+Bulk subtitle and audio changer a la pastatool
